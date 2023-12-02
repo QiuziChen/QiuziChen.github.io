@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiuzi Chen"
-description              : 
+title                    : "Qiuzi Chen (陈秋梓)"
+description              : "Transportion, Data and Sustainability."
 repository               : "QiuziChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈秋梓 Qiuzi Chen"
+  name             : "Qiuzi Chen 陈秋梓"
   avatar           : "images/researchgate_1-1.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E7%A7%8B%E6%A2%93-%E9%99%88-6b57832a2/"
+  linkedin         : # "https://www.linkedin.com/in/%E7%A7%8B%E6%A2%93-%E9%99%88-6b57832a2/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-9950-8274" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
