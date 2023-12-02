@@ -26,7 +26,7 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 > 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY AND RELATED FIELD!** 🔥
 
-# 👉🏻 Educations
+# 🌟 Educations
 
 - *2022.08-2025.01 (expected)*: **MSc of Traffic and Transportation Engineering**
   - School of Transportation, Southeast University
@@ -36,7 +36,7 @@ My recent research focus on **sustainable mobility**, **transportation operation
   - Supervised by Prof. [Ran Tu](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao).
   - Thesis: Fleet Composition and Charging Scheduling of Electric Bus Network Considering Charging Station Capacity
 
-# 👉🏻 Skills
+# 🌟 Skills
 
 - **Coding:** Python, LaTex, Git
 - **Techniques:**
@@ -50,7 +50,7 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 <span class='anchor' id='news'></span>
 
-# 👉🏻 News
+# 🌟 News
 
 > 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY AND RELATED FIELD!** 🔥
 
@@ -59,11 +59,11 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 <span class='anchor' id='publications'></span>
 
-# 👉🏻 Journal Papers
+# 🌟 Journal Papers
 
 - *2023.05*: [Cost-effective electric bus resource assignment based on optimized charging and decision robustness](https://doi.org/10.1016/j.trd.2023.103724). **Chen, Qiuzi**, Chenming Niu, Ran Tu, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Check Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
 
-# 👉🏻 Conference Papers
+# 🌟 Conference Papers
 
 - *2024.01*: Modifying MOVES Brake Wear Emission Modeling for Light-Duty Vehicles in a Metropolitan Area. **Qiuzi Chen**, Haobing Liu, Shunyao Wang, Ran Tu\*. ***TRB 103rd Annual Meeting***
 
@@ -73,10 +73,10 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 <!-- <span class='anchor' id='projects'></span> -->
 
-<!-- # 👉🏻 Projects
+<!-- # 🌟 Projects
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 👉🏻 Honors and Awards
+# 🌟 Honors and Awards
 
 - Waiting... -->
