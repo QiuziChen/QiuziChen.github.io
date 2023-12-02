@@ -40,10 +40,10 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 - **Coding:** Python, LaTex, Git
 - **Techniques:**
-  - Machine Learning, Deep Learning
-  - Network Optimization, Gurobi
-  - Traffic simulation (Vissim)
-  - GIS
+  - machine learning, deep learning
+  - network Optimization, Gurobi
+  - traffic simulation (Vissim)
+  - GIS, spatio-temporal analysis
 - **Software:** Office, Photoshop, Premiere Pro, Lightroom
 - **Language:** Mandarin, Cantonese, English (TOEFL */120)
 - **Others:** Raspberry Pi, photographing
@@ -54,7 +54,7 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 > 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY AND RELATED FIELD!** 🔥
 
-- *2022.10*: 🎉 New TRB paper accepted! Plan to be a poster presenter at TRB 2024 in Washington, D.C.! 🎉
+- *2023.10*: 🎉 New TRB paper accepted! Plan to be a poster presenter at TRB 2024 in Washington, D.C.! 🎉
 
 
 <span class='anchor' id='publications'></span>
