@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiuzi Chen 陈秋梓"
-  avatar           : "images/researchgate_1-1.jpg"
+  avatar           : "images//avatar500x500.jpg"
   bio              : "Call me Ricky!"
   location         : "Nanjing, China"
   employer         :
