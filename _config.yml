@@ -9,7 +9,7 @@
 title                    : "Qiuzi Chen (陈秋梓)"
 description              : "Transportion, Data and Sustainability."
 repository               : "QiuziChen.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  OfkMHCgAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
