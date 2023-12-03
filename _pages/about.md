@@ -52,8 +52,6 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 # 🌟 News
 
-> 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY AND RELATED FIELD!** 🔥
-
 - *2023.10*: 🎉 New TRB paper accepted! Plan to be a poster presenter at TRB 2024 in Washington, D.C.! 🎉
 
 
@@ -61,7 +59,7 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 # 🌟 Journal Papers
 
-- *2023.05*: [Cost-effective electric bus resource assignment based on optimized charging and decision robustness](https://doi.org/10.1016/j.trd.2023.103724). **Chen, Qiuzi**, Chenming Niu, Ran Tu, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Check Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
+- *2023.05*: [Cost-effective electric bus resource assignment based on optimized charging and decision robustness](https://doi.org/10.1016/j.trd.2023.103724). **Qiuzi Chen**, Chenming Niu, Ran Tu, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Check Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
 
 # 🌟 Conference Papers
 
