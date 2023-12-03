@@ -18,9 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student at [TreesLab](https://mp.weixin.qq.com/s/vp9b0jNsEdg8Pwyi09X_FA) lead by Prof. [Ran Tu (涂然)](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao) in school of transportation, [Southeast University](https://www.seu.edu.cn/english/main.htm) (SEU).
+I am currently a graduate student at [TreesLab](https://mp.weixin.qq.com/s/vp9b0jNsEdg8Pwyi09X_FA) led by Prof. [Ran Tu (涂然)](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao) in school of transportation, [Southeast University](https://www.seu.edu.cn/english/main.htm) (SEU).
 
-I've participated in projects covering vehicle detection and tracking, public operation optimization, accident risk modeling, and traffic emission modeling. These experience inspired me to solve transportation problems via cutting-edge technologies. I hope to contribute to the development of a more sustainable, environmental-friendly and economic transportation system.
+I have participated in projects covering vehicle detection and tracking, public operation optimization, accident risk modeling, and traffic emission modeling. These experience inspired me to solve transportation problems via cutting-edge technologies. I hope to contribute to the development of a more sustainable, environmental-friendly and economic transportation system.
 
 My recent research focus on **sustainable mobility**, **transportation operation** and **traffic emission modeling**.
 
@@ -40,8 +40,8 @@ My recent research focus on **sustainable mobility**, **transportation operation
 
 - **Coding:** Python, LaTex, Git
 - **Techniques:**
-  - machine learning, deep learning
-  - network Optimization, Gurobi
+  - ML, DL
+  - network optimization, Gurobi
   - traffic simulation (Vissim)
   - GIS, spatio-temporal analysis
 - **Software:** Office, Photoshop, Premiere Pro, Lightroom
