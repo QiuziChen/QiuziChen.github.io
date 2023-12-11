@@ -24,7 +24,7 @@ I have participated in projects covering vehicle detection and tracking, public 
 
 My recent research focus on **sustainable mobility**, **transportation operation** and **traffic emission modeling**.
 
-> 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY AND RELATED FIELD!** 🔥
+> 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY, TRANSPORT MARKET ANALYSIS, MACHINE LEARNING IN TRANSPORT, AND RELATED FIELDS!** 🔥
 
 # 🌟 Educations
 
