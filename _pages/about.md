@@ -20,32 +20,34 @@ redirect_from:
 
 I am currently a graduate student at [TreesLab](https://mp.weixin.qq.com/s/vp9b0jNsEdg8Pwyi09X_FA) led by Prof. [Ran Tu (涂然)](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao) in school of transportation, [Southeast University](https://www.seu.edu.cn/english/main.htm) (SEU).
 
-I have participated in projects covering vehicle detection and tracking, public operation optimization, accident risk modeling, and traffic emission modeling. These experience inspired me to solve transportation problems via cutting-edge technologies. I hope to contribute to the development of a more sustainable, environmental-friendly and economic transportation system.
+I have participated in projects covering vehicle detection and tracking, public transit operation, accident risk modeling, and traffic emission modeling. These experience inspired me to solve transportation problems via cutting-edge technologies. I hope to contribute to the development of a more sustainable, environmental-friendly and economic transportation system.
 
-My recent research focus on **sustainable mobility**, **transportation operation** and **traffic emission modeling**.
+My recent research focuses on **sustainable mobility**, **transportation operation** and **traffic emission modeling**.
 
-> 🔥 **LOOKING FOR A PHD POSITION IN SUSTAINBALE MOBILITY, TRANSPORT MARKET ANALYSIS, MACHINE LEARNING IN TRANSPORT, AND RELATED FIELDS!** 🔥
+> 🔥 **Looking for a PhD position in SUSTAINBALE MOBILITY, TRANSPORT MARKET ANALYSIS, MACHINE LEARNING IN TRANSPORT, and related fields!** 🔥
 
 # 🌟 Educations
 
-- *2022.08-2025.01 (expected)*: **MSc of Traffic and Transportation Engineering**
+- **MSc of Traffic and Transportation Engineering**
+  - *2022.08-2025.01 (expected)*
   - School of Transportation, Southeast University
-  - Supervised by Prof. [Ran Tu](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao).
-- *2018.09-2022.06*: **BSc of Transportation Engineering**
+  - Supervisor: Prof. [Ran Tu](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao).
+- **BSc of Transportation Engineering**
+  - *2018.09-2022.06*
   - School of Transportation, Southeast University
-  - Supervised by Prof. [Ran Tu](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao).
-  - Thesis: Fleet Composition and Charging Scheduling of Electric Bus Network Considering Charging Station Capacity
+  - Supervisor: Prof. [Ran Tu](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao).
+  - Thesis: *Fleet Composition and Charging Scheduling of Electric Bus Network Considering Charging Station Capacity*
 
 # 🌟 Skills
 
-- **Coding:** Python, LaTex, Git
+- **Coding:** Python, Linux, LaTex, Git
 - **Techniques:**
   - ML, DL
   - network optimization, Gurobi
   - traffic simulation (Vissim)
   - GIS, spatio-temporal analysis
 - **Software:** Office, Photoshop, Premiere Pro, Lightroom
-- **Language:** Mandarin, Cantonese, English (TOEFL */120)
+- **Language:** Mandarin, Cantonese, English (TOEFL 94/120)
 - **Others:** Raspberry Pi, photographing
 
 <span class='anchor' id='news'></span>
