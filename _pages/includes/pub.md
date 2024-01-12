@@ -1,6 +1,6 @@
 # 🏷️ Publications
 
-## Selected
+## Selected Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transp.Res.D.2023</div><img src='images/selected pub/TRD2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -9,6 +9,10 @@
 **Qiuzi Chen**, Chenming Niu, Ran Tu, Tiezhu Li, An Wang and Dengbo He.
 
 [**Code**](https://github.com/QiuziChen/alns-framework-for-evsp.git) <strong><span class='show_paper_citations' data='OfkMHCgAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Electric vehicle scheduling optimization.
+- ALNS algorithm development.
+- Cost-effectiveness evaluation under uncertainty.
 </div>
 </div>
 
