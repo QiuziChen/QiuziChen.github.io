@@ -17,8 +17,17 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
+{% include_relative includes/edu.md %}
+{% include_relative includes/skills.md %}
 
-I am currently a graduate student at [TreesLab](https://mp.weixin.qq.com/s/vp9b0jNsEdg8Pwyi09X_FA) led by Prof. [Ran Tu (涂然)](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao) in school of transportation, [Southeast University](https://www.seu.edu.cn/english/main.htm) (SEU).
+<span class='anchor' id='news'></span>
+{% include_relative includes/news.md %}
+
+<span class='anchor' id='publications'></span>
+{% include_relative includes/pub.md %}
+
+<!-- I am currently a graduate student at [TreesLab](https://mp.weixin.qq.com/s/vp9b0jNsEdg8Pwyi09X_FA) led by Prof. [Ran Tu (涂然)](https://scholar.google.cz/citations?user=ueR4KsUAAAAJ&hl=zh-CN&oi=ao) in school of transportation, [Southeast University](https://www.seu.edu.cn/english/main.htm) (SEU).
 
 I have participated in projects covering vehicle detection and tracking, public transit operation, accident risk modeling, and traffic emission modeling. These experience inspired me to solve transportation problems via cutting-edge technologies. I hope to contribute to the development of a more sustainable, environmental-friendly and economic transportation system.
 
@@ -69,7 +78,7 @@ My recent research focuses on **sustainable mobility**, **transportation operati
 
 - *2023.01*: Investigating the Resource Allocation of Electric Buses with Uncertainty through Optimal Charging Strategy. **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang, Dengbo He. ***TRB 102nd Annual Meeting***
 
-- *2022.01*: Optimizing the Charging Plan and Fleet Size of Electric Buses with Energy Consumption Variations. Yifei Su, Aijia Zhang, Tiezhu Li, **Qiuzi Chen**, Jian Sun, Ran Tu\*. ***TRB 101st Annual Meeting***
+- *2022.01*: Optimizing the Charging Plan and Fleet Size of Electric Buses with Energy Consumption Variations. Yifei Su, Aijia Zhang, Tiezhu Li, **Qiuzi Chen**, Jian Sun, Ran Tu\*. ***TRB 101st Annual Meeting*** -->
 
 <!-- <span class='anchor' id='projects'></span> -->
 
