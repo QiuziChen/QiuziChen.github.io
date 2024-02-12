@@ -7,5 +7,5 @@
   - traffic simulation (Vissim)
   - GIS, spatio-temporal analysis
 - **Software:** Office, Photoshop, Premiere Pro, Lightroom
-- **Language:** Mandarin, Cantonese, English (TOEFL 94/120)
+- **Language:** Mandarin, Cantonese, English (TOEFL MyBest: 101)
 - **Others:** Raspberry Pi, photographing
