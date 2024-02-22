@@ -20,9 +20,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 {% include_relative includes/news.md %}
-
 {% include_relative includes/edu.md %}
-{% include_relative includes/skills.md %}
 
 <span class='anchor' id='publications'></span>
 {% include_relative includes/pub.md %}
