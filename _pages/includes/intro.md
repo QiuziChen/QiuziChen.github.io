@@ -8,6 +8,4 @@ My long-term goal is to help reshape cities to achieve **efficiency**, **equity*
 - multimodality and micromobility for urban transition
 - transport justice and equity
 
-My google scholar $\rightarrowtail$ <a href='https://scholar.google.com/citations?user=OfkMHCgAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiuziChen%2FQiuziChen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 > 🔥 **Looking for a 2025 spring/fall PhD position in SUSTAINBALE MOBILITY, TRANSPORT MANAGEMENT, and related fields!** 🔥
