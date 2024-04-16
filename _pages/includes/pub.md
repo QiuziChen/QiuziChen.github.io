@@ -4,7 +4,7 @@ Check my google scholar for full list of publications: <a href='https://scholar.
 
 ## Journal Papers
 
-- *2024.04*: [基于技术接受模型的生态驾驶诱导辅助系统认知接受度](https://kns.cnki.net/kcms2/article/abstract?v=wcPNn8Zia7Nf8c-Frp2BDU76ZFFOqJVK2KXK7YE5FqO57zXWvbGi6OOO34VZ3LcnjCpVCLro3gz2_BURCWnJpiaTNJ5r9aR0xZkowxwdZZgguy10Vp1khQ==&uniplatform=NZKPT). 涂然, 薛杉, 蒋思雨, **陈秋梓**. ***同济大学学报(自然科学版)***.
+- *2024.04*: [Drivers’ Acceptance of Eco-Driving Guidance Assistance System Based on Technology Acceptance Model](https://kns.cnki.net/kcms2/article/abstract?v=wcPNn8Zia7Nf8c-Frp2BDU76ZFFOqJVK2KXK7YE5FqO57zXWvbGi6OOO34VZ3LcnjCpVCLro3gz2_BURCWnJpiaTNJ5r9aR0xZkowxwdZZgguy10Vp1khQ==&uniplatform=NZKPT). Ran Tu, Shan Xue, Siyu Jiang, **Qiuzi Chen**. ***JOURNAL OF TONGJI UNIVERSITY（NATURAL SCIENCE）***.
 
 - *2023.05*: [Cost-effective electric bus resource assignment based on optimized charging and decision robustness](https://doi.org/10.1016/j.trd.2023.103724). **Qiuzi Chen**, Chenming Niu, Ran Tu, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
 
