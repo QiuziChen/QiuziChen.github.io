@@ -6,7 +6,7 @@ My long-term goal is to help reshape cities to achieve `efficiency`, `equity` an
 
 > **Open to work!**  
 > 
-> I am looking for a 2025 fall PhD position in transport planning or transport management with specific interests in (but not limited to):
+> I am looking for a <u>2025 fall PhD</u> position in <u>transport planning</u> or <u>transport management</u> with specific interests in (but not limited to):
 >  
 > - mixed traffic future with AVs, EVs, and micromobility
 > - shared mobility (car-sharing, ride-hailing, shared micromobility, etc.)
