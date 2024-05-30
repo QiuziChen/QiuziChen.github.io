@@ -4,9 +4,11 @@ I have a broad interest in transportation issues and a belief that data and smar
 
 My long-term goal is to help reshape cities to achieve `efficiency`, `equity` and `sustainability` by transport planning and management.
 
-> **Open to work!**
+> **Open to work!**  
+> 
 > I am looking for a 2025 fall PhD position in `transport planning` or `transport management` with specific interests in (but not limited to):
 >  
 > - mixed traffic future with AVs, EVs, and micromobility
 > - equity-aware planning and management
 > - application of ML, explainable ML, causal inference, and network optimization
+
