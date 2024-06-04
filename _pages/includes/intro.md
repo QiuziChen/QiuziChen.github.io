@@ -20,4 +20,5 @@ Interests = [
     'equity-aware planning and management',
     'application of ML, explainable ML, causal inference, and network optimization'
     ]
+Interests.append(float('inf'))
 ```
