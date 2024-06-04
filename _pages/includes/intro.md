@@ -11,7 +11,7 @@ I have a broad interest in transportation issues and a belief that data and smar
 > - equity-aware planning and management
 > - application of ML, explainable ML, causal inference, and network optimization -->
 
-``` {python}
+```python
 # Open to work!
 Position = 'PhD'
 Year = '2025 Fall'
