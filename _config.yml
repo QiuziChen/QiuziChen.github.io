@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiuzi Chen (陈秋梓)"
+title                    : "Qiuzi Chen 陈秋梓"
 description              : "Transportion is all about techology, policy, and human being."
 repository               : "QiuziChen.github.io"
 google_scholar_stats_use_cdn : True
@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiuzi Chen 陈秋梓"
+  name             : "Qiuzi Chen"
   avatar           : "images//avatar500x500.jpg"
   bio              : "Call me Ricky!"
   location         : "Nanjing, China"
