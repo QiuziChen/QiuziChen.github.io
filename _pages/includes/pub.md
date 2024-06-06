@@ -8,7 +8,7 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 - `2023.05`: [Cost-effective Electric Bus Resource Assignment Based on Optimized Charging and Decision Robustness](https://doi.org/10.1016/j.trd.2023.103724). **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
 
-## Presentation
+## Conference
 
 - `2024.01`: <u>Modifying MOVES Brake Wear Emission Modeling for Light-Duty Vehicles in a Metropolitan Area</u>. **Qiuzi Chen**, Haobing Liu, Shunyao Wang, Ran Tu\*. ***TRB 103rd Annual Meeting***
 
