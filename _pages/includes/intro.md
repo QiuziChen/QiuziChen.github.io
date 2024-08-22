@@ -2,8 +2,6 @@
 
 ```python
 # Open to work!
-name = 'Qiuzi Chen'
-current_position = 'MSc. Student'
 target_position = 'PhD'
 year = '2025 Fall'
 fields = ['transport planning', 'transport management', 'etc.']
