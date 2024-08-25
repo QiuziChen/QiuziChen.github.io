@@ -4,6 +4,8 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 ## Journal
 
+- `2024.08`: [Co-optimizing electric bus dispatching and charging considering limited resources and battery degradation](https://doi.org/10.1016/j.multra.2024.100165). Chenming Niu,**Qiuzi Chen**, Ran Tu\*, Di Huang, Yujian Ye. ***Multimodal Transportation***.
+
 - `2024.04`: [Drivers’ Acceptance of Eco-Driving Guidance Assistance System Based on Technology Acceptance Model](https://tjxb.ijournals.cn/jtuns/article/abstract/202404012?st=article_issue). Ran Tu\*, Shan Xue, Siyu Jiang, **Qiuzi Chen**. ***Journal of Tongji University（Natural Science）***.
 
 - `2023.05`: [Cost-effective Electric Bus Resource Assignment Based on Optimized Charging and Decision Robustness](https://doi.org/10.1016/j.trd.2023.103724). **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang and Dengbo He. ***Transportation Research Part D: Transport and Environment*** [[Code]](https://github.com/QiuziChen/alns-framework-for-evsp.git)
