@@ -17,7 +17,7 @@
 <div class='paper-box-text' markdown="1">
 
 **Electric Bus Charging Planning and Scheduling** \\
-[**[Paper]**](https://doi.org/10.1016/j.trd.2023.103724) [**[Code]**](https://github.com/QiuziChen/alns-framework-for-evsp.git)
+[**[Paper1]**](https://doi.org/10.1016/j.trd.2023.103724) [**[Paper2]**](https://doi.org/10.1016/j.multra.2024.100165) [**[Code]**](https://github.com/QiuziChen/alns-framework-for-evsp.git)
 
 - Electric vehicle scheduling optimization.
 - ALNS algorithm development.
