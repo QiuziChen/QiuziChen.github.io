@@ -4,7 +4,7 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 ## Journal
 
-- `2024.08`: [Co-optimizing electric bus dispatching and charging considering limited resources and battery degradation](https://doi.org/10.1016/j.multra.2024.100165). Chenming Niu, **Qiuzi Chen**, Ran Tu\*, Di Huang, Yujian Ye. ***Multimodal Transportation***.
+- `2024.08`: [Co-optimizing Electric Bus Dispatching and Charging Considering Limited Resources and Battery Degradation](https://doi.org/10.1016/j.multra.2024.100165). Chenming Niu, **Qiuzi Chen**, Ran Tu\*, Di Huang, Yujian Ye. ***Multimodal Transportation***.
 
 - `2024.04`: [Drivers’ Acceptance of Eco-Driving Guidance Assistance System Based on Technology Acceptance Model](https://tjxb.ijournals.cn/jtuns/article/abstract/202404012?st=article_issue). Ran Tu\*, Shan Xue, Siyu Jiang, **Qiuzi Chen**. ***Journal of Tongji University（Natural Science）***.
 
@@ -12,8 +12,8 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 ## Conference
 
-- `2024.01`: <u>Modifying MOVES Brake Wear Emission Modeling for Light-Duty Vehicles in a Metropolitan Area</u>. **Qiuzi Chen**, Haobing Liu, Shunyao Wang, Ran Tu\*. ***TRB 103rd Annual Meeting***
+- `2024.01`: <u>Modifying MOVES Brake Wear Emission Modeling for Light-Duty Vehicles in a Metropolitan Area</u>. **Qiuzi Chen**, Haobing Liu, Shunyao Wang, Ran Tu\*. ***TRB 103rd Annual Meeting***.
 
-- `2023.01`: <u>Investigating the Resource Allocation of Electric Buses with Uncertainty through Optimal Charging Strategy</u>. **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang, Dengbo He. ***TRB 102nd Annual Meeting***
+- `2023.01`: <u>Investigating the Resource Allocation of Electric Buses with Uncertainty through Optimal Charging Strategy</u>. **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang, Dengbo He. ***TRB 102nd Annual Meeting***.
 
-- `2022.01`: <u>Optimizing the Charging Plan and Fleet Size of Electric Buses with Energy Consumption Variations</u>. Yifei Su, Aijia Zhang, Tiezhu Li, **Qiuzi Chen**, Jian Sun, Ran Tu\*. ***TRB 101st Annual Meeting***
+- `2022.01`: <u>Optimizing the Charging Plan and Fleet Size of Electric Buses with Energy Consumption Variations</u>. Yifei Su, Aijia Zhang, Tiezhu Li, **Qiuzi Chen**, Jian Sun, Ran Tu\*. ***TRB 101st Annual Meeting***.
