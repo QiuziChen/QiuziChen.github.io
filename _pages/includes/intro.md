@@ -2,14 +2,13 @@
 
 ```python
 # Open to work!
-target_position = 'PhD'
+target = 'PhD'
 year = '2025 Fall'
 fields = ['transport planning', 'transport management', 'etc.']
 interests = [
     'mixed traffic future with AVs, EVs, and micromobility',
     'shared mobility (car-sharing, ride-hailing, shared micromobility, etc.)',
     'equity-aware planning and management',
-    'application of ML, explainable ML, causal inference, and network optimization'
     ]
 interests.append(float('inf'))
 ```
