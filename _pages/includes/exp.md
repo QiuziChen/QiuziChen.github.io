@@ -2,7 +2,7 @@
 
 ## Employment
 
-- `2024.07-2024.08`: Research Assistant, The Hong Kong Polytechnic University (supervisor: Prof. [An Wang](https://scholar.google.com/citations?user=v_tp904AAAAJ&hl=zh-CN)).
+- `2024.07-2024.08`: Research Assistant, The Hong Kong Polytechnic University (supervisor: Prof. [An Wang](https://www.polyu.edu.hk/cee/people/academic-staff/dr-an-wang/)).
 
 ## Education
 
