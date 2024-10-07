@@ -12,6 +12,8 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 ## Conference
 
+- `2025.01`: <u>Influencing Factors, Spatial Distribution, and Mitigation of Light-Duty Vehicle Brake Wear Particle Emissions in the Urban Area</u>. **Qiuzi Chen**, An Wang, Shunyao Wang, Haobing Liu, Ran Tu\*. *TRB 104th Annual Meeting*.
+ 
 - `2024.01`: <u>Modifying MOVES Brake Wear Emission Modeling for Light-Duty Vehicles in a Metropolitan Area</u>. **Qiuzi Chen**, Haobing Liu, Shunyao Wang, Ran Tu\*. *TRB 103rd Annual Meeting*.
 
 - `2023.01`: <u>Investigating the Resource Allocation of Electric Buses with Uncertainty through Optimal Charging Strategy</u>. **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang, Dengbo He. *TRB 102nd Annual Meeting*.
