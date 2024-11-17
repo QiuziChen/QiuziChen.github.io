@@ -1,4 +1,4 @@
-# 🏷️ Skills
+# Skills
 
 - **Coding:** Python, Linux, LaTex, Git
 - **Techniques:**

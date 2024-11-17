@@ -1,4 +1,4 @@
-# 🏷️ News
+# News
 
 - `2024.10`: 🎉 Our TRB paper was selected for presentation at the Air Quality and Greenhouse Gas Mitigation Committee Meeting on 8 Jan!
 - `2024.07`: 🎉 I will be a poster presenter at [Urban Transitions 2024](https://www.elsevier.com/events/conferences/all/urban-transitions) in Sitges, Spain!
