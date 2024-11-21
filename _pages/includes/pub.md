@@ -2,7 +2,7 @@
 
 Check my google scholar for a full list of publications: <a href='https://scholar.google.com/citations?user=OfkMHCgAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiuziChen%2FQiuziChen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-## Journal
+## ***Journal***
 
 - `2024.08`: [Co-optimizing Electric Bus Dispatching and Charging Considering Limited Resources and Battery Degradation](https://doi.org/10.1016/j.multra.2024.100165). Chenming Niu, **Qiuzi Chen**, Ran Tu\*, Di Huang, Yujian Ye. *Multimodal Transportation*.
 
@@ -10,7 +10,7 @@ Check my google scholar for a full list of publications: <a href='https://schola
 
 - `2023.05`: [Cost-effective Electric Bus Resource Assignment Based on Optimized Charging and Decision Robustness](https://doi.org/10.1016/j.trd.2023.103724). **Qiuzi Chen**, Chenming Niu, Ran Tu\*, Tiezhu Li, An Wang and Dengbo He. *Transportation Research Part D: Transport and Environment*.
 
-## Conference
+## ***Conference***
 
 - `2025.01`: <u>Influencing Factors, Spatial Distribution, and Mitigation of Light-Duty Vehicle Brake Wear Particle Emissions in the Urban Area</u>. **Qiuzi Chen**, An Wang, Shunyao Wang, Haobing Liu, Ran Tu\*. *TRB 104th Annual Meeting*.
  
