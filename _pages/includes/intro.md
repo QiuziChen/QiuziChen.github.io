@@ -7,7 +7,7 @@ year = '2025 Fall'
 fields = ['transport operation and management', 'transport market and policy', 'etc.']
 interests = [
     'mixed traffic future with AVs, EVs, and micromobility',
-    'shared mobility (car-sharing, ride-hailing, shared micromobility, etc.)',
+    'on-demand mobility and shared mobility',
     'equity-aware management and operation',
     ]
 interests.append(float('inf'))
