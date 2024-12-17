@@ -4,11 +4,11 @@
 # Open to work!
 target = 'PhD'
 year = '2025 Fall'
-fields = ['transport operation and management', 'transport market and policy', 'etc.']
+fields = ['sustainable mobility']
 interests = [
+    'urban sensing and traffic-related emission modeling',
     'mixed traffic future with AVs, EVs, and micromobility',
-    'on-demand mobility and shared mobility',
-    'equity-aware management and operation',
+    'equity-aware transportation assessment and management',
     ]
 interests.append(float('inf'))
 ```
