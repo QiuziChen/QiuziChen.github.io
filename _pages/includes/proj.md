@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 **Light-duty Vehicle Brake Wear Particle Emission Modeling** \\
-[**[Code]**](https://github.com/QiuziChen/brake-wear-emission-modeling)
+[**[Paper]**](https://doi.org/10.1016/j.trd.2024.104541) [**[Code]**](https://github.com/QiuziChen/brake-wear-emission-modeling)
 
 - Brake wear particle emission modeling.
 - Spatial and temporal analysis.
