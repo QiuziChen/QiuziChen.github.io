@@ -1,61 +1,61 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Qiuzi Chen"
+secondary_name:
+navbar_name: "Qiuzi Chen"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/SEU.png
+  name: MSc. Student
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+email: "qiuzi.chen@outlook.com"
+gscholar: OfkMHCgAAAAJ
+linkedin: qiuzi-chen-552560276/
+github: QiuziChen
+orcid: 0000-0001-9950-8274
+researchgate: Qiuzi-Chen
 
 short_bio_text_justify: false
-short_bio: >-
+short_bio: 
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am currently a MSc. student working under Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> in Southeast University, 
+    from which I also obtained my BEng. degree in Traffic and Transportation. 
+    In this September, I will join <a href='https://www.epfl.ch/labs/homes/'>HOMES Lab</a> at EPFL as a Doctoral Assistant 
+    under the supervision of Prof. <a href='https://people.epfl.ch/kenan.zhang?lang=en'>Kenan Zhang</a>. 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+  </p>
+    My research interests include
+    <ul>
+    <li><strong>human-oriented mobility system design and operation</strong></li>
+    <li><strong>mobile sensing for urban environment monitoring</strong></li>
+    </ul>
+  </p>
+
+portrait_url: /assets/images/photos/avatar500x500.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Taken in May 2021.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Southeast University
+  logo: /assets/images/badges/SEU.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    School of Transportation <br/>
+    Supervisor: Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> <br/>
+    MSc. in Traffic and Transportation Engineering
+  date: Aug. 2022 - present
+- name: Southeast University
+  logo: /assets/images/badges/SEU.png
+  position: >- 
+    School of Transportation <br/>
+    BEng. in Traffic and Transportation
+  date: Aug. 2018 - Jun. 2022
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: The Hong Kong Polytechnic University
+  logo: /assets/images/badges/PolyU.png
+  position: >-
+    Department of Civil and Environmental Engineering <br/>
+    Supervisor: Prof. <a href="https://www.polyu.edu.hk/cee/people/academic-staff/dr-an-wang/">An Wang</a> <br/>
+    Research Assistant
+  date: Jul. 2024 - Sep. 2024
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
