@@ -1,5 +1,5 @@
 primary_name: "Qiuzi Chen"
-secondary_name:
+secondary_name: "(ch'iu-tzu ch'en)"
 navbar_name: "Qiuzi Chen"
 
 positions:
@@ -26,8 +26,9 @@ short_bio:
   </p>
     My research interests include
     <ul>
-    <li><strong>human-oriented mobility system design and operation</strong></li>
     <li><strong>mobile sensing for urban environment monitoring</strong></li>
+    <li><strong>AI-empowered air quality data-driven service</strong></li>
+    <li><strong>human-oriented mobility system design and operation</strong></li>
     </ul>
   </p>
 
