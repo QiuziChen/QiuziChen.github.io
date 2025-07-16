@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "陈秋梓, Qiuzi Chen, and Ricky"
 
 positions:
-- logo: /assets/images/badges/SEU.png
-  name: MSc. Student
+- logo: /assets/images/badges/EPFL.png
+  name: Incoming PhD
 
 
 email: "qiuzi.chen@outlook.com"
@@ -17,10 +17,10 @@ researchgate: Qiuzi-Chen
 short_bio_text_justify: false
 short_bio: 
   <p>
-    I am currently a MSc. student working under Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> in Southeast University, 
-    from which I also obtained my BEng. degree in Traffic and Transportation. 
     In this September, I will join <a href='https://www.epfl.ch/labs/homes/'>HOMES Lab</a> at EPFL as a Doctoral Assistant 
-    under the supervision of Prof. <a href='https://people.epfl.ch/kenan.zhang?lang=en'>Kenan Zhang</a>. 
+    under the supervision of Prof. <a href='https://people.epfl.ch/kenan.zhang?lang=en'>Kenan Zhang</a>.
+    I obtained a MSc. degree working under Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> in Southeast University, 
+    from which I also obtained my BEng. degree in Traffic and Transportation. 
   </p>
 
   </p>
@@ -43,7 +43,7 @@ education:
     School of Transportation <br/>
     Supervisor: Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> <br/>
     MSc. in Traffic and Transportation Engineering
-  date: Aug. 2022 - present
+  date: Aug. 2022 - Jun. 2025
 - name: Southeast University
   logo: /assets/images/badges/SEU.png
   position: >- 
