@@ -4,7 +4,7 @@ navbar_name: "陈秋梓, Qiuzi Chen, and Ricky"
 
 positions:
 - logo: /assets/images/badges/EPFL.png
-  name: Incoming PhD
+  name: Ph.D. Student
 
 
 email: "qiuzi.chen@outlook.com"
@@ -17,7 +17,7 @@ researchgate: Qiuzi-Chen
 short_bio_text_justify: false
 short_bio: 
   <p>
-    In this September, I will join <a href='https://www.epfl.ch/labs/homes/'>HOMES Lab</a> at EPFL as a Doctoral Assistant 
+    I am currently working as a doctoral assistant and Ph.D. student at <a href='https://www.epfl.ch/labs/homes/'>HOMES Lab</a>, EPFL 
     under the supervision of Prof. <a href='https://people.epfl.ch/kenan.zhang?lang=en'>Kenan Zhang</a>.
     I obtained a MSc. degree working under Prof. <a href="https://turanjade.github.io/index.html">Ran Tu</a> in Southeast University, 
     from which I also obtained my BEng. degree in Traffic and Transportation. 
@@ -37,6 +37,13 @@ portrait_caption: >-
   Taken in May 2021.
 
 education:
+- name: École Polytechnique Fédérale de Lausanne
+  logo: /assets/images/badges/EPFL.png
+  position: >- 
+    Lab for Human-Oriented Mobility Eco-System (HOMES) <br/>
+    Supervisor: Prof. <a href="https://people.epfl.ch/kenan.zhang?lang=en">Kenan Zhang</a> <br/>
+    Ph.D. in Transportation Engineering
+  date: Aug. 2025 - present
 - name: Southeast University
   logo: /assets/images/badges/SEU.png
   position: >- 
