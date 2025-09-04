@@ -43,7 +43,7 @@ education:
     Lab for Human-Oriented Mobility Eco-System (HOMES) <br/>
     Supervisor: Prof. <a href="https://people.epfl.ch/kenan.zhang?lang=en">Kenan Zhang</a> <br/>
     Ph.D. in Transportation Engineering
-  date: Aug. 2025 - present
+  date: Sep. 2025 - present
 - name: Southeast University
   logo: /assets/images/badges/SEU.png
   position: >- 
@@ -59,6 +59,13 @@ education:
   date: Aug. 2018 - Jun. 2022
 
 experience:
+- name: École Polytechnique Fédérale de Lausanne
+  logo: /assets/images/badges/EPFL.png
+  position: >-
+    Lab for Human-Oriented Mobility Eco-System (HOMES) <br/>
+    Supervisor: Prof. <a href="https://people.epfl.ch/kenan.zhang?lang=en">Kenan Zhang</a> <br/>
+    Doctoral Assistant
+  date: Sep. 2025 - present
 - name: The Hong Kong Polytechnic University
   logo: /assets/images/badges/PolyU.png
   position: >-
