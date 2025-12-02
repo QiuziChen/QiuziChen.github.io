@@ -22,7 +22,15 @@ short_bio:
   </p>
 
   </p>
-    My research focuses on applying <strong>optimization and probabilistic modeling</strong> in the fields of </strong>transportation and mobility sensing</strong>.
+    <h2>My research interests:</h2>
+    <ul>
+      <li>
+        **Core Methodologies:** Optimization and Probabilistic Modeling
+      </li>
+      <li>
+        **Application Areas:** Transportation and Mobility Sensing
+      </li>
+    </ul>
   </p>
 
 portrait_url: /assets/images/photos/avatar500x500.jpg
