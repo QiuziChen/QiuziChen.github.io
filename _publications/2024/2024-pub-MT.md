@@ -1,0 +1,22 @@
+---
+title:          "Co-optimizing Electric Bus Dispatching and Charging Considering Limited Resources and Battery Degradation"
+date:           2024-08-30 00:00:00 +0800
+selected:       false
+pub:            "Multimodal Transportation"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_date:       "2024"
+
+abstract: >-
+  This paper aims to formulate a mathematical model for a multi-type electric bus scheduling problem to determine the optimal fleet composition, bus-to-trip assignment, and partial charging schedule, where the battery degradation, nonlinear charging, and the constraint of charging station capacity are considered. A time-expanded network is proposed to represent the bus-to-trip assignment and partial charging. An adaptive large neighborhood search algorithm is designed to solve the problem. Using a multi-line bus network in Nanjing as the case, empirical operational data is used to generate monthly timetable samples to simulate the uncertainty of trip travel time and energy consumption. The result shows that the charging station capacity can be reduced from 20 (real-world case) to 12, considering the cost-effectiveness and robustness of the bus system. The result of this study also provides suggestions on the charging duration choices and the starting state-of-charge for different periods of the day. In peak and off-peak hours, 20-30-minute charging is recommended for electric buses with state-of-charge lower than 30 %, and 10-minute charging is more recommended when the state-of-charge of the electric bus is between 30 % and 70 %.
+cover:          /assets/images/covers/cover-MT-2024.jpg
+authors:
+  - Chenming Niu
+  - <strong><em>Qiuzi Chen</em></strong>
+  - Ran Tu#
+  - Di Huang
+  - Yujian Ye
+links:
+  Paper: /assets/pub/2024-pub-MT.pdf
+---
